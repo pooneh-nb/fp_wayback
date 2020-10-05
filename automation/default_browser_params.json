@@ -1,27 +1,3 @@
-{
-    "extension_enabled": true,
-    "cookie_instrument": false,
-    "js_instrument": false,
-    "js_instrument_settings": ["collection_fingerprinting"],
-    "http_instrument": false,
-    "navigation_instrument": false,
-    "save_content": false,
-    "callstack_instrument": false,
-
-    "random_attributes": false,
-    "bot_mitigation": false,
-    "profile_tar": null,
-    "profile_archive_dir": null,
-    "display_mode": "native",
-    "browser": "firefox",
-    "prefs": {},
-
-    "tp_cookies": "always",
-    "donottrack": false,
-    "disconnect": false,
-    "ghostery": false,
-    "https-everywhere": false,
-    "adblock-plus": false,
-    "ublock-origin": false,
-    "tracking-protection": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e08cdca32ce6b6dd2422afa7233f12b5a0907e55d819db7a7218d8925896fa8
+size 698

@@ -1,8 +1,3 @@
-{
-  "tagPrefix": "@openwpm/webext-instrumentation@",
-  "releaseCommitMessageFormat": "chore(release): @openwpm/webext-instrumentation@{{currentTag}}",
-  "infile": "README.md",
-  "skip": {
-    "changelog": true
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34e4c766d5dea4a7eac807b38add5c13e5698d625f0455d4ca8037b9887eede5
+size 216
